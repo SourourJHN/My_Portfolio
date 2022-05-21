@@ -61,7 +61,7 @@ export const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg mt">
                     Demo
                   </button>
                 </a>
